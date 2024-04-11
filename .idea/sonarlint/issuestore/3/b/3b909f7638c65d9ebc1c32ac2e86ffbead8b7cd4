@@ -1,0 +1,29 @@
+
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ôô‡F8Ë¢×Öì1
+g	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(§—Îìüÿÿÿÿ8Ì¢×Öì1
+b	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(¿Ì«Â8Ì¢×Öì1
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôô‡F8á¢×Öì1
+X	java:S125"<This block of commented-out lines of code should be removed.(üšå‚8æ¢×Öì1
+H
+java:S5542"+Use another cipher mode or disable padding.(ˆÌúú8ç¢×Öì1
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ŠÓ¯Ã8é¢×Öì1
+o	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§—Îìüÿÿÿÿ8î¢×Öì1
+]	java:S125)"<This block of commented-out lines of code should be removed.(ßĞ¹£ûÿÿÿÿ8ğ¢×Öì1
+X	java:S125-"<This block of commented-out lines of code should be removed.(Íı¢ş8ğ¢×Öì1
+j	java:S1000"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Ì«Â8ğ¢×Öì1
+Z
+java:S18541"=Remove this useless assignment to local variable "cipherBMP".(§­­8ñ¢×Öì1
+K
+java:S14811".Remove this unused "cipherBMP" local variable.(§­­8ó¢×Öì1
+X	java:S1254"<This block of commented-out lines of code should be removed.(Ù˜ùü8ó¢×Öì1
+X	java:S1258"<This block of commented-out lines of code should be removed.(ûÏ¦±8ô¢×Öì1
+]	java:S125="<This block of commented-out lines of code should be removed.(ü˜ØÊúÿÿÿÿ8õ¢×Öì1
+X	java:S125C"<This block of commented-out lines of code should be removed.(Ñ‹¬ˆ8ö¢×Öì1
+O
+java:S1128"-Remove this unused import 'javax.crypto.Mac'.(çëûÿÿÿÿ8÷¢×Öì1
+_
+java:S1128"=Remove this unused import 'javax.crypto.BadPaddingException'.(ŒÚ¤øùÿÿÿÿ8÷¢×Öì1
+U
+java:S1128"8Remove this unused import 'java.security.MessageDigest'.(Œğ²»8ø¢×Öì1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ø¢×Öì1
